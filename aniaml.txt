@@ -1,3 +1,5 @@
 lion
 oiseau
 chat
+chien
+tigre
